@@ -1,0 +1,11 @@
+package com.generics;
+
+import java.util.List;
+
+public class Team {
+
+	
+	 <E> void show (List<?> list) {
+		List<E> list3 =  null;
+	}
+}

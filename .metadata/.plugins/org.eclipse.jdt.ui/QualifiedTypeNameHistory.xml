@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.builderpractice.EmployeeCompanyBuilder"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.builderpractice.EmployeeAddreddBuilder"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.builderpractice.EmployeeAddressBuilder"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.builderpractice.EmployeeNameBuilder"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.builderpractice.EmployeeBuilder"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.builderpractice.Employee"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="problems.SortMapBasedOnValues"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="problems.EmployeeComparator"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="problems.EmployeeComparator2"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.singleton.BasicSingleton"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.ImplicitActivationPolicy"/>
+<fullyQualifiedTypeName name="com.practice.designpatterns.singleton.InnerStaticSingleton"/>
+<fullyQualifiedTypeName name="problems.Employee"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="problems.LambdaPractice"/>
+<fullyQualifiedTypeName name="problems.Animal"/>
+<fullyQualifiedTypeName name="java.util.function.Consumer"/>
+<fullyQualifiedTypeName name="java.util.function.Predicate"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="problems.PredicatePractice"/>
+<fullyQualifiedTypeName name="problems.Student"/>
+<fullyQualifiedTypeName name="problems.StudentParent"/>
+<fullyQualifiedTypeName name="util.Employee"/>
+<fullyQualifiedTypeName name="java.beans.Transient"/>
+<fullyQualifiedTypeName name="problems.StudentParentParent"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="problems.Address.city"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="problems.Node"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="problems.LRUCache"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+</qualifiedTypeNameHistroy>

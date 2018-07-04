@@ -1,0 +1,79 @@
+package problems;
+
+import java.util.HashMap;
+import java.util.LinkedList;
+
+public class LRUCache {
+	
+	private static HashMap<Integer, Node> entries = new HashMap<>();
+	private LinkedList<Node> list = new LinkedList<>();
+	
+	private int capacity = 2;
+	private Node head;
+	private Node tail;
+	private int currentSize=0;
+	
+	public LRUCache(int capacity) {
+		this.capacity = capacity;
+	}
+	
+	public void put(Integer key, Integer value) {
+		
+		//check if the cache is empty
+		if(entries.size() == 0 && list.size() == 0) {
+			//yes: creating new node and setting it as head and tail. also, netting previous and next to null
+			Node newNode = new Node(key, value);
+			newNode.previous = newNode.next = null;
+			entries.put(key, newNode);
+			list.add(newNode);
+			head = tail = newNode;
+		} else {
+			//no: check whether the key is already present in the cache or not
+			if(entries.get(key) == null) {
+				
+				if(!(currentSize < capacity)) {
+					
+				} 
+				
+				Node newNode = new Node(key, value);
+				entries.put(key,newNode);
+				list.add(newNode);
+				head = newNode;
+				
+			} else {
+				//update
+			}
+		}
+		
+	}
+	
+	public String get(String key) {
+		
+		
+		
+	}
+	
+	public void remove() {
+		
+	}
+	
+	public void rearrange() {
+		
+	}
+	
+	
+	
+}
+
+
+class Node {
+	Integer key;
+	Integer value;
+	Node previous;
+	Node next;
+	
+	Node(Integer key, Integer value) {
+		this.key = key;
+		this.value = value;
+	}
+}

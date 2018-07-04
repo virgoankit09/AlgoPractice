@@ -1,0 +1,19 @@
+package problems;
+
+public class LRUCache {
+	
+	private int capacity;
+	
+	public LRUCache(int capacity) {
+		this.capacity = capacity;
+	}
+	
+}
+
+
+class Node {
+	
+	int data;
+	Node next;
+	
+}

@@ -1,0 +1,33 @@
+package problems;
+
+public class LRUCache {
+	
+	private int capacity;
+	
+	public LRUCache(int capacity) {
+		this.capacity = capacity;
+	}
+	
+	public boolean put(String key, String value) {
+		
+		
+		
+	}
+	
+	public boolean gey(String key) {
+		
+		
+		
+	}
+	
+}
+
+
+class Node {
+	
+	String key;
+	String value;
+	Node previous;
+	Node next;
+	
+}
