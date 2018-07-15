@@ -41,4 +41,21 @@
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="problems.LRUCache"/>
 <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="problems.ReflectionDemo"/>
+<fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Parameter"/>
+<fullyQualifiedTypeName name="java.security.GeneralSecurityException"/>
+<fullyQualifiedTypeName name="problems.Students"/>
+<fullyQualifiedTypeName name="problems.Mammal"/>
+<fullyQualifiedTypeName name="problems.TestInterface2"/>
+<fullyQualifiedTypeName name="problems.TestDemo"/>
+<fullyQualifiedTypeName name="problems.TestInterface"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="problems.one"/>
+<fullyQualifiedTypeName name="problems.Child"/>
+<fullyQualifiedTypeName name="problems.Parent"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="problems.Human"/>
+<fullyQualifiedTypeName name="problems.StatisDemo"/>
 </qualifiedTypeNameHistroy>
