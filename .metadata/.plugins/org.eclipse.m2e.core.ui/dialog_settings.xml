@@ -60,12 +60,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ankitgarg.functional_programming"/>
 			<item value="com.ankitgarg.test"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ankitgarg"/>
 		</list>
 		<list key="artifactId">
+			<item value="functional-programming"/>
 			<item value="test"/>
 		</list>
 		<list key="projectNameTemplate">
