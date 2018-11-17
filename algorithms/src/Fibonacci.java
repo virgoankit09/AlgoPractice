@@ -34,6 +34,9 @@ public class Fibonacci {
     {
         int n = 1474;
         System.out.println(fib2(n));
+        
+        int a[] = new int[] {2,3};
+        System.out.println(a.length);
     }
 	
 }

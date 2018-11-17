@@ -29,15 +29,7 @@ public class ArrayThreeMax {
 	}
 
 	public static void main(String[] args) {
-		//System.out.println(findThirdLastNumberWithThreeMax(List.of(6,4,2,3,8,7,23,4,6,7,8,3,4,52)));
-		int a = 'a';
-		int b = 'A';
-		
-		int c = 'z';
-		int d = 'Z';
-		
-		System.out.println(a+ " " + b);
-		System.out.println(c+ " " + d);
+		System.out.println(findThirdLastNumberWithThreeMax(List.of(6,4,2,3,8,7,23,4,6,5,8,3,4,52)));
 	}
 	
 }
